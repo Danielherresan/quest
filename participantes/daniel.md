@@ -1,5 +1,5 @@
 <!-- Profile Image -->
-<img src="https://user-images.githubusercontent.com/19904063/117953727-99727680-b316-11eb-8491-3b76f5482e10.png" height="120" width="120" align="left"/> **Daniel Herrera Sánchez**
+<img src="https://media-exp1.licdn.com/dms/image/C5603AQHd1Vq3g7qlJg/profile-displayphoto-shrink_200_200/0/1600867185480?e=1626912000&v=beta&t=szFln_1OJG3cyNammIE_Sjw39gU7Aj_MOIn4qRHXxOY" height="120" width="120" align="left"/> **Daniel Herrera Sánchez**
 
 Redes sociales:
 </br>
@@ -10,19 +10,19 @@ Redes sociales:
 
 <!-- Facebook -->
 <!--
-<a href="/#"> <img src="https://user-images.githubusercontent.com/19904063/117954388-41883f80-b317-11eb-8315-decc0239f29b.png"  align="left"/> </a>
+<a href="#"> <img src="https://user-images.githubusercontent.com/19904063/117954388-41883f80-b317-11eb-8315-decc0239f29b.png"  align="left"/> </a>
 -->
 <!-- Github -->
-<!--
-<a href="/#"> <img src="https://user-images.githubusercontent.com/19904063/117954380-40571280-b317-11eb-9234-54b447af42a1.png"  align="left"/> </a>
--->
+
+<a href="https://github.com/Danielherresan"> <img src="https://user-images.githubusercontent.com/19904063/117954380-40571280-b317-11eb-9234-54b447af42a1.png"  align="left"/> </a>
+
 <!-- Youtube -->
 <a href="https://www.youtube.com/channel/UCl-zLD5lt9EPuESn_Fl3yXg"> <img src="https://user-images.githubusercontent.com/19904063/117954389-41883f80-b317-11eb-82eb-01d29cf67430.png"  align="left"/> </a>
 
 <!-- Linkedin -->
-<!--
-<a href="/#"> <img src="https://user-images.githubusercontent.com/19904063/117954386-41883f80-b317-11eb-8bfc-d47ac0f8027c.png"  align="left"/> </a>
--->
+
+<a href="https://www.linkedin.com/in/daniel-herrera-s%C3%A1nchez-a4106a56/"> <img src="https://user-images.githubusercontent.com/19904063/117954386-41883f80-b317-11eb-8bfc-d47ac0f8027c.png"  align="left"/> </a>
+
 
 <!-- Boton votar -->
 <a href="https://github.com/FlutterSpain/quest/issues/1#issuecomment-839972911"> <img src="https://user-images.githubusercontent.com/19904063/117955137-01758c80-b318-11eb-9575-6aba57ba04b5.png" height="48" align="right"/> </a>
@@ -35,25 +35,23 @@ Redes sociales:
 
 ## Sobre mi
 
-<!-- Borrar esta linea
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+Me gusta mucho aprender y compartir los conocimientos adquiridos. Actualmente trabajo como Senior Frontend en Bancolombia S.A, en este momento estamos trabajando en una aplicación con más de 4 millones de usuarios desarrollada 100% en Flutter. He encontrado en YouTube una forma de compartir con la comunidad temas de interés en el desarrollo de software y recientemente me encariñe con escribir artículos en Medium. También soy profesor universitario en la universidad CES.  Fundé con un amigo una empresa de desarrollo de soluciones digitales. En mi tiempo libre me gusta mucho leer, tocar guitarra, dibujar y jugar en el pc. Soy muy abierto a las sugerencias, si ves algo en lo que pueda mejorar o que quieres que hable en los vídeos y artículos puedes decirlo con total libertad.
 
 ## Mis articulos
 
-|               |               |
+|      Enlace         |    Descripción            |
 | ------------- | ------------- |
-| <a href="https://medium.com/flutter/announcing-xd-to-flutter-v2-0-c743bac2aeeb"> <img src="https://user-images.githubusercontent.com/19904063/117956006-eb1c0080-b318-11eb-93c4-7d921b528734.png" height="200" align="right"/> </a>  |  **Announcing XD to Flutter v2.0!** </br> Giving designers a fast path to production Flutter code |
-| <a href="https://medium.com/flutter/flutter-web-support-hits-the-stable-milestone-d6b84e83b425"> <img src="https://user-images.githubusercontent.com/19904063/117956630-84e3ad80-b319-11eb-9346-7fff4f49f659.png" height="200" align="right"/> </a>  |  **Flutter web support hits the stable milestone** </br> Publish to web and mobile from the same codebase |
+| <a href="https://medium.com/bancolombia-tech/deber%C3%ADas-implementar-arquitectura-limpia-en-flutter-a0e1631de5d2"> <img src="https://miro.medium.com/max/2560/1*-CuIrPIEZhAxWxD27sGShw.png" height="150" align="right"/> </a>  |  **¿Deberías implementar arquitectura limpia en Flutter?** </br> Te cuento la experiencia que presentamos como organización implementando arquitectura limpia en nuestras soluciones flutter|
+
 
 
 ## Videos 
 
 |               |               |
 | ------------- | ------------- |
-| <a href="https://www.youtube.com/watch?v=ci14fb9n9TE"> <img src="https://img.youtube.com/vi/ci14fb9n9TE/0.jpg" height="200" align="right"/> </a>  |  **Flutter Engage Spain - Keynote** </br> |
-| <a href="https://www.youtube.com/watch?v=olMC7_Mayv8"> <img src="https://img.youtube.com/vi/olMC7_Mayv8/0.jpg" height="200" align="right"/> </a>  |  **Null Safety Q&A - Mesa redonda** </br> |
+| <a href="https://www.youtube.com/watch?v=dFP0IeX6WL0&t=492s"> <img src="https://i.ytimg.com/vi/dFP0IeX6WL0/maxresdefault.jpg" height="200" align="right"/> </a>  |  **Creando un sistema de diseño en Flutter - Basado en Atomic Design** </br> |
+| <a href="https://www.youtube.com/watch?v=PnOExZLa2zY"> <img src="https://pbs.twimg.com/profile_images/1370435383876550656/A9WJycTK_400x400.jpg" height="200" align="right"/> </a>  |  **Flutter driver una herramienta poderosa💪 que todos los desarrolladores Flutter deberíamos conocer📱** </br> |
 
 
 
--->
+
