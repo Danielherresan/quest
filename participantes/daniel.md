@@ -52,6 +52,8 @@ Me gusta mucho aprender y compartir los conocimientos adquiridos. Actualmente tr
 | <a href="https://www.youtube.com/watch?v=dFP0IeX6WL0&t=492s"> <img src="https://i.ytimg.com/vi/dFP0IeX6WL0/maxresdefault.jpg" height="200" align="right"/> </a>  |  **Creando un sistema de diseño en Flutter - Basado en Atomic Design** </br> |
 | <a href="https://www.youtube.com/watch?v=PnOExZLa2zY"> <img src="https://pbs.twimg.com/profile_images/1370435383876550656/A9WJycTK_400x400.jpg" height="200" align="right"/> </a>  |  **Flutter driver una herramienta poderosa💪 que todos los desarrolladores Flutter deberíamos conocer📱** </br> |
 | <a href="https://www.youtube.com/watch?v=1rJs9-0sN3M&t=11s"> <img src="https://i.ytimg.com/vi/SrZjw27btw8/maxresdefault.jpg" height="200" align="right"/> </a>  |  **¿Debería migrar ya a Flutter 2.0? ¿Debería comenzar a utilizar Flutter web en PDN? y otras dudas🤔🧐** </br> |
+| <a href="https://www.youtube.com/watch?v=fGuCoPYYBLU"> <img src="https://i.ytimg.com/vi/fGuCoPYYBLU/maxresdefault.jpg?v=60a8343d" height="200" align="right"/> </a>  |  **Charla en Flutter Guatemala :D** </br> |
+| <a href="https://www.youtube.com/watch?v=j-wYfl5f9Po"> <img src="https://github.com/Danielherresan/algoritmos202101/blob/main/Hablemos%20de%20Null%20safety%20en%2015%20minutos.png?raw=true" height="200" align="right"/> </a>  |  **Null safety y de la asignación tardía🛠️💻 dos conceptos poderosos de Flutter 2x📲 en menos de 15 min🔥** </br> |
 
 
 
