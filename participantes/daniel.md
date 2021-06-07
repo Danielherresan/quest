@@ -54,5 +54,8 @@ Me gusta mucho aprender y compartir los conocimientos adquiridos. Actualmente tr
 | <a href="https://www.youtube.com/watch?v=1rJs9-0sN3M&t=11s"> <img src="https://i.ytimg.com/vi/SrZjw27btw8/maxresdefault.jpg" height="200" align="right"/> </a>  |  **¿Debería migrar ya a Flutter 2.0? ¿Debería comenzar a utilizar Flutter web en PDN? y otras dudas🤔🧐** </br> |
 | <a href="youtube.com/watch?v=fGuCoPYYBLU&t=2217s"> <img src="https://user-images.githubusercontent.com/25071700/120924844-526c6c80-c69b-11eb-8ed1-ade1d77bfdb2.png" height="200" align="right"/> </a>  |  **Exposición en Flutter Guatemala** </br> |
 | <a href="https://www.youtube.com/watch?v=j-wYfl5f9Po"> <img src="https://i.ytimg.com/vi/j-wYfl5f9Po/mqdefault.jpg" height="200" align="right"/> </a>  |  **Null safety y la asignación tardía🛠️💻 dos conceptos poderosos de Flutter 2x📲 en menos de 15 min🔥** </br> |
+| <a href="https://danielherresan.medium.com/null-safety-y-la-asignaci%C3%B3n-tard%C3%ADa-en-espa%C3%B1ol-ef2550e0e7d2"> <img src="https://i.ytimg.com/vi/j-wYfl5f9Po/mqdefault.jpg" height="200" align="right"/> </a>  |  **Artículo de Flutter** </br> |
+
+
 
 
